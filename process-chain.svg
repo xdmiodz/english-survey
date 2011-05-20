@@ -14,7 +14,7 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.0 r9654"
+   inkscape:version="0.48.1 r9760"
    sodipodi:docname="process-chain.svg">
   <defs
      id="defs4">
@@ -52,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="331.78621"
-     inkscape:cy="394.39551"
+     inkscape:zoom="1.4"
+     inkscape:cx="200.79622"
+     inkscape:cy="423.71105"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -77,7 +77,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -548,31 +548,8 @@
              x="0" /></flowRegion><flowPara
            id="flowPara5202">Неустойчивости в плазме</flowPara></flowRoot>    </g>
     <g
-       id="g5245"
-       transform="translate(-89.974609,-66.026367)">
-      <rect
-         style="fill:#ffffff;stroke:#000000;stroke-width:1.22139525;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-         id="rect5218"
-         width="125"
-         height="68.026367"
-         x="394.97461"
-         y="922.36218" />
-      <flowRoot
-         transform="translate(1.5449219,2.8499232)"
-         id="flowRoot5237"
-         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><flowRegion
-           id="flowRegion5239"><use
-             height="1052.3622"
-             width="744.09448"
-             id="use5241"
-             xlink:href="#rect5218"
-             y="0"
-             x="0" /></flowRegion><flowPara
-           id="flowPara5243">Скрытый поток тепла и изменение скорости испарения воды</flowPara></flowRoot>    </g>
-    <g
        id="g5269"
-       transform="translate(-10.887185,-17.817492)">
+       transform="translate(-9.9746094,-82.949826)">
       <rect
          style="fill:#ffffff;stroke:#000000;stroke-width:1.04713476;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
          id="rect5254"
@@ -601,15 +578,9 @@
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
-       d="m 265,837.36218 0,25 40,0"
-       id="path5278"
+       d="m 285,877.36218 20,0"
+       id="path3113"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
-    <path
-       sodipodi:nodetypes="ccc"
-       inkscape:connector-curvature="0"
-       id="path5280"
-       d="m 260,917.36218 0,25 45,0"
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)" />
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
