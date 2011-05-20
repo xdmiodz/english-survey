@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="process-chain.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3852"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3846"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="331.78621"
+     inkscape:cy="394.39551"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="951"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="27.142857"
+       y="970.93359"
+       id="text2989"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2991"
+         x="27.142857"
+         y="970.93359" /></text>
+    <g
+       id="g3025"
+       transform="translate(4.6608731,0)">
+      <rect
+         y="948.67798"
+         x="0"
+         height="43.684204"
+         width="280"
+         id="rect2987"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.46488595;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(5.6386719,5.7846766)"
+         id="flowRoot3017"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3019"><use
+             height="1052.3622"
+             width="744.09448"
+             id="use3021"
+             xlink:href="#rect2987"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           id="flowPara3023">Выбросы радона, инертных и парниковых газов, генерация потоков воздуха</flowPara></flowRoot>    </g>
+    <g
+       id="g3063"
+       transform="translate(124.85938,115.08691)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.06787217;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3040"
+         width="130"
+         height="50"
+         x="30"
+         y="752.36218" />
+      <flowRoot
+         transform="translate(5.140625,8.9392786)"
+         id="flowRoot3055"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3057"><use
+             height="1052.3622"
+             width="744.09448"
+             id="use3059"
+             xlink:href="#rect3040"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           id="flowPara3061">Возбуждение акустических волн</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 219.85938,948.36218 0,-29"
+       id="path3070"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="794.60699"
+       x="4.3613281"
+       height="43.684204"
+       width="280"
+       id="rect4472"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.46488595;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="flowRoot4491"
+       transform="translate(10.007813,6.6834192)"><flowRegion
+         id="flowRegion4493"><use
+           x="0"
+           y="0"
+           xlink:href="#rect4472"
+           id="use4495"
+           width="744.09448"
+           height="1052.3622" /></flowRegion><flowPara
+         id="flowPara4497">Генерация аномального электрического поля</flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path4503"
+       d="m 220,867.36218 0,-29"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4505"
+       d="m 56,948.36218 0,-109"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="text4507"
+       sodipodi:linespacing="125%"
+       transform="translate(-6,-20.342776)"><textPath
+         xlink:href="#path4505"
+         id="textPath4519"><tspan
+   id="tspan4509">Ионизация</tspan></textPath></text>
+    <rect
+       y="672.36218"
+       x="122.55984"
+       height="30"
+       width="130"
+       id="rect4562"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.82717025;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="157.35475"
+       y="691.73035"
+       id="text4577"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4579"
+         x="157.35475"
+         y="691.73035">Свечение</tspan></text>
+    <g
+       id="g4629"
+       transform="translate(-17.440165,0)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.06787217;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4583"
+         width="130"
+         height="50"
+         x="140"
+         y="612.36218" />
+      <flowRoot
+         transform="translate(5.2050781,1.1521692)"
+         id="flowRoot4602"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4604"><use
+             height="1052.3622"
+             width="744.09448"
+             id="use4606"
+             xlink:href="#rect4583"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           id="flowPara4608">Джоулев нагрев - возбужение акустических волн</flowPara></flowRoot>    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4636"
+       d="m 187.55983,662.36218 0,10"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 90,794.36218 0,-157 31,0"
+       id="path4638"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4697"
+       d="m 56,795.36218 0,-273"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.19790888;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4834"
+       width="125.83718"
+       height="65"
+       x="155"
+       y="537.36218" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="flowRoot4836"
+       transform="translate(3.2877312,10.102365)"><flowRegion
+         id="flowRegion4838"><use
+           x="0"
+           y="0"
+           xlink:href="#rect4834"
+           id="use4840"
+           width="744.09448"
+           height="1052.3622" /></flowRegion><flowPara
+         id="flowPara4842">Мелкомасштабная модуляция плотности плазмы</flowPara></flowRoot>    <g
+       id="g4880"
+       transform="translate(0,-10.505076)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.19790888;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4849"
+         width="125.83718"
+         height="65"
+         x="10"
+         y="467.36218" />
+      <flowRoot
+         transform="translate(0.13538742,10.102365)"
+         id="flowRoot4851"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4853"><use
+             height="1052.3622"
+             width="744.09448"
+             id="use4855"
+             xlink:href="#rect4849"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           id="flowPara4857">Крупномасштабная модуляция плотности плазмы</flowPara></flowRoot>    </g>
+    <g
+       id="g4873"
+       transform="translate(0,-10.505076)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.19790888;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4814"
+         width="125.83718"
+         height="65"
+         x="155"
+         y="467.36218" />
+      <flowRoot
+         transform="translate(1.6734734,1.5711146)"
+         id="flowRoot4865"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4867"><use
+             height="1052.3622"
+             width="744.09448"
+             id="use4869"
+             xlink:href="#rect4814"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           id="flowPara4871">Возмущения плотности плазмы, ориентированные вдоль поля</flowPara></flowRoot>    </g>
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path4887"
+       d="m 135,612.36218 0,-40 20,0"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)" />
+    <g
+       id="g4906"
+       transform="translate(-4.1628189,-0.88359076)">
+      <rect
+         y="377.36218"
+         x="14.162819"
+         height="65"
+         width="125.83718"
+         id="rect4891"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.19790888;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot4893"
+         transform="translate(10.465199,-73.847831)"><flowRegion
+           id="flowRegion4895"><use
+             x="0"
+             y="0"
+             xlink:href="#rect4849"
+             id="use4897"
+             width="744.09448"
+             height="1052.3622" /></flowRegion><flowPara
+           id="flowPara4899">Высотные и масс-ионные эффеткы</flowPara></flowRoot>    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 115,457.36218 0,-14"
+       id="path4913"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(140.83718,-0.88359076)"
+       id="g4915">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.19790888;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4917"
+         width="125.83718"
+         height="65"
+         x="14.162819"
+         y="377.36218" />
+      <flowRoot
+         transform="translate(10.465199,-73.847831)"
+         id="flowRoot4919"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4921"><use
+             height="1052.3622"
+             width="744.09448"
+             id="use4923"
+             xlink:href="#rect4849"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           id="flowPara4925">Туннелирование ОНЧ волн </flowPara></flowRoot>    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4927"
+       d="m 260,456.89789 0,-14"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 260,537.36218 0,-14"
+       id="path4929"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.19790888;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4933"
+       width="125.83718"
+       height="65"
+       x="304.16281"
+       y="376.47858" />
+    <flowRoot
+       transform="translate(299.36363,-89.312491)"
+       id="flowRoot4935"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4937"><use
+           height="1052.3622"
+           width="744.09448"
+           id="use4939"
+           xlink:href="#rect4849"
+           y="0"
+           x="0" /></flowRegion><flowPara
+         id="flowPara4941">Циклотронное взаимодействие с энергичными частицами </flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path4948"
+       d="m 281,402.36218 22,0"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g4964"
+       transform="translate(-15.837189,0)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.19790888;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4950"
+         width="125.83718"
+         height="65"
+         x="320"
+         y="527.36218" />
+      <flowRoot
+         transform="translate(6.1558952,16.571115)"
+         id="flowRoot4956"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4958"><use
+             height="1052.3622"
+             width="744.09448"
+             id="use4960"
+             xlink:href="#rect4950"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           id="flowPara4962">Дополнительная ионизация D-слоя</flowPara></flowRoot>    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 405,441.25504 0,86.10714"
+       id="path4971"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="text4973"
+       sodipodi:linespacing="125%"
+       y="-390"
+       x="447.36218"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4975"
+         x="447.36218"
+         y="-390">Высыпания </tspan><tspan
+         sodipodi:role="line"
+         x="447.36218"
+         y="-375"
+         id="tspan4983">частиц</tspan></text>
+    <g
+       id="g5136">
+      <rect
+         y="607.36218"
+         x="304.16281"
+         height="65"
+         width="125.83718"
+         id="rect4987"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.19790888;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot4989"
+         transform="translate(-13.516254,81.152169)"><flowRegion
+           id="flowRegion4991"><use
+             x="0"
+             y="0"
+             xlink:href="#rect4950"
+             id="use4993"
+             width="744.09448"
+             height="1052.3622" /></flowRegion><flowPara
+           id="flowPara4995">Аномальное прохождение ОНЧ, НЧ, ВЧ и СВЧ радиоволн </flowPara></flowRoot>    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5002"
+       d="m 405,592.36218 0,14"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       sodipodi:nodetypes="cc" />
+    <rect
+       y="712.36218"
+       x="123"
+       height="60"
+       width="130"
+       id="rect5056"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.16979539;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       id="flowRoot5098"
+       transform="translate(6.0546875,10.231868)"><flowRegion
+         id="flowRegion5100"><use
+           x="0"
+           y="0"
+           xlink:href="#rect5056"
+           id="use5102"
+           width="744.09448"
+           height="1052.3622" /></flowRegion><flowPara
+         id="flowPara5104">Возмущение плотности в Е-слое, возникновение спорадического слоя</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 220,794.36218 0,-20"
+       id="path5118"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g5160"
+       transform="translate(-5,-72)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.19790888;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect5145"
+         width="125.83718"
+         height="65"
+         x="309.16281"
+         y="777.36218" />
+      <flowRoot
+         transform="translate(0.97886276,258.65217)"
+         id="flowRoot5147"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5149"><use
+             height="1052.3622"
+             width="744.09448"
+             id="use5151"
+             xlink:href="#rect4950"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           id="flowPara5153">Генерация КНЧ, ОНЧ и ВЧ излучения </flowPara></flowRoot>    </g>
+    <g
+       id="g5204"
+       transform="translate(0,-36)">
+      <rect
+         y="827.36218"
+         x="305"
+         height="50"
+         width="125"
+         id="rect5181"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.04713476;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(5.0253906,9.9998255)"
+         id="flowRoot5196"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5198"><use
+             height="1052.3622"
+             width="744.09448"
+             id="use5200"
+             xlink:href="#rect5181"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           id="flowPara5202">Неустойчивости в плазме</flowPara></flowRoot>    </g>
+    <g
+       id="g5245"
+       transform="translate(-89.974609,-66.026367)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.22139525;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect5218"
+         width="125"
+         height="68.026367"
+         x="394.97461"
+         y="922.36218" />
+      <flowRoot
+         transform="translate(1.5449219,2.8499232)"
+         id="flowRoot5237"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5239"><use
+             height="1052.3622"
+             width="744.09448"
+             id="use5241"
+             xlink:href="#rect5218"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           id="flowPara5243">Скрытый поток тепла и изменение скорости испарения воды</flowPara></flowRoot>    </g>
+    <g
+       id="g5269"
+       transform="translate(-10.887185,-17.817492)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.04713476;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect5254"
+         width="125"
+         height="50"
+         x="314.97461"
+         y="950.38855" />
+      <flowRoot
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="flowRoot5256"
+         transform="translate(37.025391,124.17854)"><flowRegion
+           id="flowRegion5258"><use
+             x="0"
+             y="0"
+             xlink:href="#rect5181"
+             id="use5260"
+             width="744.09448"
+             height="1052.3622" /></flowRegion><flowPara
+           id="flowPara5262">Локальные эффекты в ионосфере</flowPara></flowRoot>    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5276"
+       d="m 285,802.36218 20,0"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 265,837.36218 0,25 40,0"
+       id="path5278"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path5280"
+       d="m 260,917.36218 0,25 45,0"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)" />
+  </g>
+</svg>
